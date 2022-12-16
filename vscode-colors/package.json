@@ -1,0 +1,22 @@
+{
+  "name": "jojobii-vscode-colors",
+  "displayName": "jojobii-vscode-colors",
+  "description": "",
+  "repository": {"url": "https://github.com/jojobii-arks/jojobii-arks"},
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jojobii's Colors (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/jojobii-colors-dark.jsonc"
+      }
+    ]
+  }
+}
