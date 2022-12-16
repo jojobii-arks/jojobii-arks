@@ -1,6 +1,7 @@
 {
   "name": "jojobii-vscode-colors",
   "displayName": "jojobii-vscode-colors",
+  "publisher": "jojobii",
   "description": "",
   "repository": {"url": "https://github.com/jojobii-arks/jojobii-arks"},
   "version": "0.0.1",
