@@ -16,7 +16,7 @@
       {
         "label": "jojobii's Colors (Dark)",
         "uiTheme": "vs-dark",
-        "path": "./themes/jojobii-colors-dark.jsonc"
+        "path": "./themes/jojobii-colors-dark.json"
       }
     ]
   }
