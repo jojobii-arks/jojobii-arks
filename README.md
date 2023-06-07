@@ -2,4 +2,4 @@
 
 ---
 
-*Coming from the real world? Check out [@joseph-bravo](https://github.com/jojobii-arks)!*
+*Coming from the real world? Check out [@joseph-bravo](https://github.com/joseph-bravo)!*
